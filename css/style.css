@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f8f8;
+    margin-bottom: 50px;
+}
+
+.contain {
+    width: 80%;
+    max-width: 1000px;
+}
+
+.user_image {
+    width: 100%;
+}
+
+.descritpion {
+    font-size: 12px;
+}
+
+.repo_title {
+    font-size: 30px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
